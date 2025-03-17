@@ -1,4 +1,3 @@
-"""                                          X & O Game                                                              """
 import os
 
 # Function to clear the console screen based on the operating system
