@@ -47,7 +47,7 @@ The project consists of the following main components:
 ## How to Run the Game:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/mohamedelawakey/XO-Game.git
+   git clone https://github.com/mohamedelawakey/X_O_Game.git
 2. Navigate to the project directory:  
    ```bash
    cd XO-Game
