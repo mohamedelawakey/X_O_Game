@@ -1,6 +1,7 @@
 import os
 
 # Function to clear the console screen based on the operating system
+
 def clear_screen():
     if os.name == 'nt':
         os.system('cls') # Windows
@@ -15,6 +16,7 @@ class Player:
 
     # Function to prompt the user to enter a valid name (letters only)
     # Check if the input contains only letters
+    
     def chose_name(self):
         while True:
             name = input('Enter your name (letters only): ')
