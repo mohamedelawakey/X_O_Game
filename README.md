@@ -41,7 +41,7 @@ The project consists of the following main components:
 - Introduce different difficulty levels for AI-based gameplay.  
 
 ## Requirements:
-- Python 3.x  
+- Python 3.x      
 - Compatible with Windows, macOS, and Linux  
 
 ## How to Run the Game:
@@ -56,6 +56,6 @@ The project consists of the following main components:
    python game.py
 
 # Contribution Guidelines
-- Fork the repository and create a new branch.
+- Fork the repository and create a new branch. 
 - Commit changes with clear messages.
 - Submit a pull request with a description of your improvements.
