@@ -3,7 +3,7 @@
 
 ## Overview:   
 X & O Game (Tic-Tac-Toe) is a console-based two-player game developed in Python. It follows the principles of clean code and object-oriented programming, ensuring maintainability and scalability. The game provides a simple yet interactive way to play Tic-Tac-Toe, where two players take turns marking spaces on a 3x3 grid until one of them wins or the game ends in a draw.
-
+   
 ## Objectives:
 The primary goal of this project is to:
 - Provide an interactive command-line Tic-Tac-Toe experience.  
