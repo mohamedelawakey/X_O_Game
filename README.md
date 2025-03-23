@@ -12,10 +12,10 @@ The primary goal of this project is to:
 - Implement a user-friendly interface with input validation.  
 
 ## Features:
-- **Two-player mode:** Players enter their names and choose unique symbols.  
+- **Two-player mode:** Players enter their names and choose unique symbols.   
 - **Turn-based gameplay:** Players take turns selecting positions on the board.  
 - **Win and draw detection:** The game checks for a winner or a tie after each move.  
-- **Menu system:** Players can start, restart, or quit the game.  
+- **Menu system:** Players can start, restart, or quit the game.   
 - **Board validation:** Prevents players from selecting an already occupied cell.    
 - **Clean UI in the console:** The game board updates dynamically.    
 
