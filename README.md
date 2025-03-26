@@ -45,11 +45,11 @@ The project consists of the following main components:
 - Compatible with Windows, macOS, and Linux  
 
 ## How to Run the Game:
-1. Clone the repository:  
+1. Clone the repository:            
    ```bash
    git clone https://github.com/mohamedelawakey/X_O_Game.git
 2. Navigate to the project directory:  
-   ```bash
+   ```bash          
    cd XO-Game
 3. Navigate to the project directory:  
    ```bash
