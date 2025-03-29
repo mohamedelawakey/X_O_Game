@@ -1,6 +1,6 @@
 # X_O_Game
 🎮 X & O Game is a simple console-based Tic-Tac-Toe game built in Python. The game supports two players taking turns to place their symbols on a 3x3 board. The goal is to align three symbols in a row, column, or diagonal to win the game.
-
+ 
 ## Overview:   
 X & O Game (Tic-Tac-Toe) is a console-based two-player game developed in Python. It follows the principles of clean code and object-oriented programming, ensuring maintainability and scalability. The game provides a simple yet interactive way to play Tic-Tac-Toe, where two players take turns marking spaces on a 3x3 grid until one of them wins or the game ends in a draw.
    
