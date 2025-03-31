@@ -35,14 +35,14 @@ The project consists of the following main components:
 6. Players can choose to restart or quit after a game ends.  
 
 ## Future Enhancements:
-- Implement an AI opponent for single-player mode.  
+- Implement an AI opponent for single-player mode.    
 - Add a GUI version using Tkinter or PyQt.  
 - Store player statistics for tracking wins and losses.  
 - Introduce different difficulty levels for AI-based gameplay.  
 
 ## Requirements:
 - Python 3.x      
-- Compatible with Windows, macOS, and Linux  
+- Compatible with Windows, macOS, and Linux   
 
 ## How to Run the Game:
 1. Clone the repository:            
